@@ -1,0 +1,27 @@
+{
+  "name": "AI Study Planner",
+  "description": "An AI-powered Study Planner using IBM watsonx.ai and Flask.",
+  "repository": "https://github.com/YOUR_USERNAME/AI-Study-Planner",
+  "keywords": [
+    "IBM Cloud",
+    "watsonx.ai",
+    "Flask",
+    "Python",
+    "AI",
+    "Study Planner"
+  ],
+  "env": {
+    "API_KEY": {
+      "description": "IBM Cloud API Key"
+    },
+    "PROJECT_ID": {
+      "description": "IBM watsonx.ai Project ID"
+    },
+    "URL": {
+      "description": "IBM watsonx.ai Regional URL"
+    },
+    "MODEL_ID": {
+      "description": "Foundation Model ID"
+    }
+  }
+}
